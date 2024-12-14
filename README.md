@@ -97,8 +97,6 @@ Familiaridade com os desafios de design em sistemas de verificação e certifica
 
 **UX/UI:** Focar na experiência do usuário para adoção pelos stakeholders.
 
-==========================================================================================================
-
 ## Links do Projeto  :
 
 **Lean Inception detalhada no Miro, incluindo o MVP Canvas** :  Miro
