@@ -99,7 +99,7 @@ Familiaridade com os desafios de design em sistemas de verificação e certifica
 
 ## Links do Projeto  :
 
-**Lean Inception detalhada no Miro, incluindo o MVP Canvas** :  Miro
+**Lean Inception detalhada no Miro, incluindo o MVP Canvas** : https://miro.com/app/board/uXjVL3VvHYM=/
 
 **Backlog do Produto, Definition of Ready e Definition of Done** : Jira
 
