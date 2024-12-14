@@ -99,15 +99,20 @@ Familiaridade com os desafios de design em sistemas de verificação e certifica
 
 ## Links do Projeto  :
 
-**Lean Inception detalhada no Miro, incluindo o MVP Canvas** : https://miro.com/app/board/uXjVL3VvHYM=/
+**Lean Inception detalhada no Miro, incluindo o MVP Canvas** : 
+https://miro.com/app/board/uXjVL3VvHYM=/
 
-**Backlog do Produto, Definition of Ready e Definition of Done** : Jira
+**Backlog do Produto, Definition of Ready e Definition of Done** : 
+https://jmorettoni.atlassian.net/jira/software/projects/KAN/boards/1
 
-**Backlog da Sprint, com histórias de usuário detalhadas, estimadas e com critérios de aceitação** : Jira
+**Backlog da Sprint, com histórias de usuário detalhadas, estimadas e com critérios de aceitação** : 
+https://jmorettoni.atlassian.net/jira/software/projects/KAN/boards/1
 
-**Imagens dos Protótipos de Interface** : Figma 
+**Imagens dos Protótipos de Interface** : 
+https://www.figma.com/design/BU7QxAJKeFcbqjNGkl0Ptv/Untitled?t=CLv5l9wKntAlCHJd-0
 
-**Vídeo de Apresentação** : Youtube
+**Vídeo de Apresentação** :  
+https://www.youtube.com/watch?v=zfR3Qg09wFE
 
 
 
