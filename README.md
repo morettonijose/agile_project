@@ -10,7 +10,9 @@ A ferramenta deve funcionar como um hub de verificação multiplataforma ( All-i
 - Versões futuras da aplicação poderão evoluir para fornecer relatórios para os proprietários do conteúdo original sempre que o conteúdo for identificado / encontrado ou denunciado  e ferramentas para a moderação e aplicação de políticas de conteúdo ( Notificar, Bloquear , Rastrear, Monetizar ) ;
 
 
-## **Stakeholders  ( usuário e clientes )** : Agentes da industria da música como  Gravadoras, Editoras, Distribuídoras,Artistas e selos independentes ; 
+## **Stakeholders  ( usuário e clientes )** : 
+
+Agentes da industria da música como  Gravadoras, Editoras, Distribuídoras,Artistas e selos independentes ; 
 
 
 ## **Time scrum do projeto** : 
