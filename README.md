@@ -36,7 +36,7 @@ Capacidade de coletar e interpretar feedback de stakeholders.
 
 **2.2. Scrum Master**
 Habilidades:
-Experiência em gestão ágil e facilitação de cerimônias Scrum (Daily, Sprint Planning, Review, Retrospective).
+Experiência em gestão ágil e facilitação de cerimônias Scrum ( Daily, Planning, Review, Retro ).
 Capacidade de remover impedimentos e melhorar a comunicação entre os membros do time.
 Conhecimento prático das melhores práticas ágeis.
 
@@ -46,15 +46,15 @@ Perfis necessários e habilidades específicas:
 
 **A. Desenvolvedor Back-End (2 pessoas)**
 Habilidades:
-Experiência em APIs RESTful para integração com múltiplas plataformas (YouTube, Spotify, etc.).
-Conhecimento em frameworks como Flask/Django (Python) ou Spring Boot (Java).
-Experiência com bancos de dados (SQL e NoSQL).
-Conhecimento de arquitetura escalável e autenticação segura (OAuth2, JWT).
-Experiência com processamento de áudio (opcional, mas desejável).
+Experiência em APIs RESTful para integração com múltiplas plataformas ( Audible Magic, ACR CLOUD, Shazam, outras Integrações de APIS diversas ...).
+Conhecimento em frameworks como  NODE.JS  ou Flask/Django (Python) .
+Experiência com bancos de dados ( SQL e NoSQL : Postgree e MongoDB ).
+Conhecimento de arquitetura escalável e autenticação segura ( OAuth2, JWT ).
+Experiência com processamento de áudio ( opcional, mas desejável ).
 
 **B. Desenvolvedor Front-End (2 pessoas)**
 Habilidades:
-Proficiência em frameworks como React.js ou Angular.
+Proficiência em framework React.js .
 Experiência em criação de interfaces intuitivas e responsivas.
 Conhecimento em design de dashboards, gráficos e tabelas interativas.
 Integração com APIs RESTful.
@@ -62,16 +62,16 @@ Integração com APIs RESTful.
 **C. Engenheiro DevOps (1 pessoa)**
 Habilidades:
 Experiência em configurar pipelines CI/CD (GitHub Actions, Jenkins, etc.).
-Habilidades em gerenciamento de infraestrutura na nuvem (AWS, Azure ou Google Cloud).
+Habilidades em gerenciamento de infraestrutura na nuvem (AWS e Google Cloud).
 Monitoramento e escalabilidade de microserviços.
-Conhecimento de contêineres e orquestração (Docker, Kubernetes).
+Conhecimento de contêineres e orquestração (Docker e Kubernetes).
 
 **D. Engenheiro de Dados / Especialista em IA (1 pessoa)**
 Habilidades:
 Experiência em processamento de áudio e reconhecimento de padrões.
 Habilidades com bibliotecas como librosa ou Essentia para análise de música.
 Experiência com modelos de machine learning para classificação e análise de similaridade.
-Conhecimento em APIs de reconhecimento de áudio (AcousticID, Gracenote, etc.).
+Conhecimento em APIs de reconhecimento de áudio (AcousticID, Gracenote, Shazam, AcrCloud, Audible Magic etc.).
 
 **E. Analista de Testes / QA (1 pessoa)**
 Habilidades:
@@ -82,7 +82,7 @@ Garantia de qualidade no processo de integração e regressão.
 **F. UX/UI Designer (1 pessoa)**
 Habilidades:
 Criação de wireframes, mockups e protótipos interativos.
-Experiência em ferramentas como Figma, Adobe XD ou Sketch.
+Experiência em Figma .
 Design centrado no usuário com foco na simplicidade e acessibilidade.
 Familiaridade com os desafios de design em sistemas de verificação e certificação.
 
