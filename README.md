@@ -46,7 +46,7 @@ Conhecimento prático das melhores práticas ágeis.
 
 Perfis necessários e habilidades específicas:
 
-**A. Desenvolvedor Back-End (2 pessoas)**
+**A. Desenvolvedor Back-End (1 a 2 pessoas)**
 Habilidades:
 Experiência em APIs RESTful para integração com múltiplas plataformas ( Audible Magic, ACR CLOUD, Shazam, outras Integrações de APIS diversas ...).
 Conhecimento em frameworks como  NODE.JS  ou Flask/Django (Python) .
@@ -54,7 +54,7 @@ Experiência com bancos de dados ( SQL e NoSQL : Postgree e MongoDB ).
 Conhecimento de arquitetura escalável e autenticação segura ( OAuth2, JWT ).
 Experiência com processamento de áudio ( opcional, mas desejável ).
 
-**B. Desenvolvedor Front-End (2 pessoas)**
+**B. Desenvolvedor Front-End (1 a 2 pessoas)**
 Habilidades:
 Proficiência em framework React.js .
 Experiência em criação de interfaces intuitivas e responsivas.
